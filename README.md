@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Laiane and I'm a Software Engineering student.
 - 👀 I’m interested in learning how things work
-- 🌱 I’m currently learning JavaScript and anything i am searching in the moment
+- 🌱 I’m currently learning JavaScript, Linux, Redes, GIT/GItHub...
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: laianecm@gmail.com
 

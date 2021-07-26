@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Laiane and I'm a Software Engineering student.
-- 👀 I’m interested in learning how things work
-- 🌱 I’m currently learning how to code, Linux, GIT/GitHub...
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in learning how things work.
+- 🌱 I’m currently learning JavaScrip and improving my Front-End skills.
+- 💞️ I’m looking to collaborate on open source projects and building amazing solutions.
 - 📫 How to reach me: laianecm@gmail.com
 
 <!---
